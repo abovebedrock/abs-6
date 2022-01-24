@@ -1,2 +1,2 @@
 # abs-6
-AboveBedrock Server #6: Otherside's World
+基岩之上服务器第六季：另一侧的世界
